@@ -6,19 +6,23 @@ Accessibility statement for the [Tourism Beats](https://github.com/arieltyson/To
 
 ## Overview
 
-This page documents Tourism Beats' current support for Apple's nine Accessibility Nutrition Label categories.
+This site documents Tourism Beats' current iPhone accessibility support for Apple's Accessibility Nutrition Labels.
 
 | Feature | Status |
 |---|---|
-| VoiceOver | In progress |
-| Voice Control | In progress |
-| Larger Text | In progress |
-| Dark Interface | Fully supported |
-| Sufficient Contrast | In progress |
-| Differentiate Without Color | In progress |
-| Reduce Motion | In progress |
+| VoiceOver | Supported on iPhone |
+| Voice Control | Supported on iPhone |
+| Larger Text | Supported on iPhone |
+| Dark Interface | Fully supported on iPhone |
+| Differentiate Without Color Alone | Supported on iPhone |
+| Sufficient Contrast | Supported on iPhone |
+| Reduced Motion | Supported on iPhone |
 | Closed Captions | Not applicable |
 | Audio Descriptions | Not applicable |
+
+## Scope
+
+This statement currently covers the iPhone experience for Tourism Beats. It describes support across the app's common tasks, including destination discovery, city detail browsing, advisories, music actions, food journaling, and trip planning.
 
 ## Related
 
